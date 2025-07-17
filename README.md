@@ -31,3 +31,8 @@ I explored the data to answer questions like:
 ![Screenshot 2025-07-17 233820](https://github.com/Moyinolu-sam/Moyin-PowerBi-Project/blob/main/Screenshot%202025-07-17%20233820.png)
 ![Screenshot 2025-07-17 233840](https://github.com/Moyinolu-sam/Moyin-PowerBi-Project/blob/main/Screenshot%202025-07-17%20233840.png)
 
+
+### RESULT
+We notice that there is a huge gender pay gap in product management of the Abuja and Kaduna branch.
+Also, for the most departments, the Abuja and Kaduna branches usually have larger gender pay gap.
+
