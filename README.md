@@ -27,6 +27,6 @@ I explored the data to answer questions like:
  - Verifying if the company pays the employees the minimum amount required of them to pay.
 
 ### DATA ANALYSIS
-![Screenshot 2025-07-04 205950](https://github.com/user-attachments/assets/ab71267f-0169-4cf4-a8b6-563499b92016)
-![Screenshot 2025-07-04 205935](https://github.com/user-attachments/assets/c8603034-58d5-47d5-bf88-cefc6ce23c16)
-![Screenshot 2025-07-04 205852](https://github.com/user-attachments/assets/d4c9a4cf-7553-485b-8598-a5f95db13c77)
+https://github.com/Moyinolu-sam/Moyin-PowerBi-Project/blob/main/Screenshot%202025-07-17%20233759.png
+https://github.com/Moyinolu-sam/Moyin-PowerBi-Project/blob/main/Screenshot%202025-07-17%20233820.png
+https://github.com/Moyinolu-sam/Moyin-PowerBi-Project/blob/main/Screenshot%202025-07-17%20233840.png
